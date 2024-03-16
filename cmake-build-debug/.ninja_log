@@ -1,0 +1,13 @@
+# ninja log v5
+0	27	1710618585556590123	CMakeFiles/DiningPhilosophers.dir/main.c.o	52c2aff7540fd003
+27	60	1710618585589878129	DiningPhilosophers	ee37e78b848dbeac
+1	51	1710621238823673259	CMakeFiles/DiningPhilosophers.dir/main.c.o	52c2aff7540fd003
+51	87	1710621238859212812	DiningPhilosophers	ee37e78b848dbeac
+0	30	1710621395888808768	CMakeFiles/DiningPhilosophers.dir/main.c.o	52c2aff7540fd003
+30	65	1710621395924327531	DiningPhilosophers	ee37e78b848dbeac
+1	31	1710621496221057806	CMakeFiles/DiningPhilosophers.dir/main.c.o	52c2aff7540fd003
+31	67	1710621496258195835	DiningPhilosophers	ee37e78b848dbeac
+0	31	1710621609855414108	CMakeFiles/DiningPhilosophers.dir/main.c.o	52c2aff7540fd003
+31	66	1710621609891218276	DiningPhilosophers	ee37e78b848dbeac
+0	31	1710621840777471385	CMakeFiles/DiningPhilosophers.dir/main.c.o	52c2aff7540fd003
+31	62	1710621840808719593	DiningPhilosophers	ee37e78b848dbeac
